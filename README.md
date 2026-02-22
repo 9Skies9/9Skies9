@@ -1,6 +1,6 @@
 # Hi, I'm 9Skies 👋
 
-I'm an AI-all-around enthusiast, self-teaching through open-source CS, math, and AI classes.
+I'm an AI, Graphics, Website enthusiast, self-teaching through open-source CS, math, and AI classes.
 
 Aspiring to join research labs and internships, and documenting the journey through projects and experiments.
 
