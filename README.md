@@ -9,4 +9,4 @@ Aspiring to join research labs and internships, and documenting the journey thro
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=9Skies9&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=9Skies9&layout=compact&theme=sdark)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=9Skies9&layout=compact&theme=dark)
