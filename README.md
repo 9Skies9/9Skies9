@@ -8,5 +8,6 @@ Aspiring to join research labs and internships, and documenting the journey thro
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,c,cpp,javascript,github,git,linux,bash,docker)](https://skillicons.dev)
 
 ## GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=9Skies9)]
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=9Skies9&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=9Skies9&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=9Skies9&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=9Skies9&theme=tokyonight)
