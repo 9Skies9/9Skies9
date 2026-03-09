@@ -2,7 +2,7 @@
 
 I'm an AI & Art enthusiast, self-teaching through open-source CS, math, and AI classes.
 
-Aspiring to join research labs and internships, and documenting the journey through projects and experiments.
+Aspiring to join labs & internships, and documenting the journey through projects and experiments.
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,c,cpp,javascript,github,git,linux,bash,docker)](https://skillicons.dev)
